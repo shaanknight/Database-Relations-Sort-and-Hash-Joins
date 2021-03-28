@@ -30,7 +30,7 @@ attribute value) from the other file.
 <JoinRS.sh> <path of R file> <path of S file> <sort/hash> <M>
 ```
 
-The script produces a file <R filename>\_<S filename>\_join.txt containing all the tuples formed as a result of join of R(X,Y) and S(Y,Z).
+The script produces a file ```<R filename>_<S filename>_join.txt``` containing all the tuples formed as a result of join of R(X,Y) and S(Y,Z).
 
 The benchmarking details can be found in the file analysis.pdf.
 
