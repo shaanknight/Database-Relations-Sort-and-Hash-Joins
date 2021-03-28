@@ -1,4 +1,4 @@
 #/usr/bin/sh
 
-g++ join.cpp 
+g++ code/join.cpp 
 ./a.out "$1" "$2" "$3" "$4" 
